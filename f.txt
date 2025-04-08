@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nice to meet you
+=======
+hlooo
+>>>>>>> fb
